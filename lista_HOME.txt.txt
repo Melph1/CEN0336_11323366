@@ -1,3 +1,0 @@
-total 8
-drwxr-xr-x 6 matheus matheus 4096 Oct 16 17:38 matheus
-drwxr-xr-x 2 root    root    4096 Oct 16 18:11 michael
